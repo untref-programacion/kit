@@ -1,0 +1,3 @@
+# Introducción
+
+Aquí empieza todo.

@@ -1,0 +1,37 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: aad18309-4b0b-4025-873c-05c8ef3cbad8
+  title: Kit
+  # description:
+  # keywords: []
+  # authors: []
+  github: untref-programaciona/kit
+  toc:
+    - file: content/01-introduccion.md
+
+site:
+  template: book-theme
+  options:
+    # hide_toc: true
+    # hide_footer_links: true
+    # hide_outline: true
+    # hide_title_block: true
+    # hide_authors: true
+    # hide_search: true
+    # outline_maxdepth: 6
+    # twitter: untref_edd
+    # favicon: favicon.ico
+    # logo: logo.svg
+    # logo_dark: logo-dark.svg
+    logo_text: Kit
+    # logo_url: https://untref-programacion.github.io/kit/
+    # logo_alt: Kit
+    # analytics_google: UA-XXXXXXXXX-X
+    # analytics_plausible: untref-programacion.github.io
+    # numbered_references: true
+    # folders: true
+    # internal_domains: untref-programacion.github.io
+    # style: custom.css
+    # footer:
+    # primary_sidebar_footer:
