@@ -9,7 +9,11 @@ Esto funciona porque cuando un programa se ejecuta, el sistema operativo le prov
 Esto funciona porque las variables de entorno actúan como una forma estándar y externa de pasar configuración, separando el código de los detalles del entorno en el que se ejecuta. De esta manera un mismo programa puede comportarse de forma diferente según cómo esté configurado, sin necesidad de ser modificado.
 
 ## Un poco de contexto
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/C8bH7d-4ga8?si=HkeWNdjHa004sm2V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```{iframe} https://www.youtube.com/embed/C8bH7d-4ga8?si=HkeWNdjHa004sm2V
+---
+width: 100%
+---
+```
 
 
 ## Ejemplos (¡probalos!)
