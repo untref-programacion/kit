@@ -6,7 +6,7 @@ project:
   # description:
   # keywords: []
   # authors: []
-  github: untref-programaciona/kit
+  github: untref-programacion/kit
   toc:
     - file: content/01-introduccion.md
 
