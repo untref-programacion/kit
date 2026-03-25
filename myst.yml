@@ -2,7 +2,7 @@
 version: 1
 project:
   id: aad18309-4b0b-4025-873c-05c8ef3cbad8
-  title: Kit
+  title: Kit para programadores
   # description:
   # keywords: []
   # authors: []
@@ -22,9 +22,9 @@ site:
     # outline_maxdepth: 6
     # twitter: untref_edd
     # favicon: favicon.ico
-    # logo: logo.svg
-    # logo_dark: logo-dark.svg
-    logo_text: Kit
+    logo: images/logo.svg
+    logo_dark: images/logo-dark.svg
+    # logo_text: Kit para programadoresPro
     # logo_url: https://untref-programacion.github.io/kit/
     # logo_alt: Kit
     # analytics_google: UA-XXXXXXXXX-X
