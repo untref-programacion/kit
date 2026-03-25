@@ -11,6 +11,7 @@ El síntoma suele ser la ejecución de tareas repetitivas hechas manualmente, di
 Este compendio surge de notar que muchas de las habilidades que hacen a un programador efectivo no se enseñan directamente, a pesar de que tienen un **impacto inmediato en la forma de trabajar**.
 
 Aprender a usar bien estas herramientas no es un lujo ni algo avanzado. Es una inversión que:
+
 - ahorra tiempo desde el primer día
 - reduce errores evitables
 - mejora la autonomía
@@ -23,14 +24,17 @@ Además, estas habilidades **trascienden lo académico**. Son parte del trabajo 
 El objetivo de este material es ofrecer una introducción práctica y accesible a herramientas y hábitos fundamentales para quienes están empezando a programar. No busca reemplazar cursos formales ni profundizar en teoría, sino complementar la formación con aquello que suele quedar implícito, que es **cómo trabajar mejor con la computadora**.
 
 Cada tema está pensado para ser:
+
 - breve
 - aplicable inmediatamente
 - centrado en ejemplos concretos
 
 ## Visión
+
 Este compendio no intenta reinventar la rueda. Por el contrario, se apoya en recursos existentes de alta calidad, organizándolos y contextualizándolos para facilitar su adopción. La propuesta es **curar, ordenar y hacer accesibles** herramientas y prácticas que ya demostraron ser útiles, reduciendo la fricción para quienes recién comienzan.
 
-A largo plazo, la visión es que estos conocimientos dejen de ser *lo que uno aprende por su cuenta* y pasen a formar parte natural del proceso de aprender a programar.
+A largo plazo, la visión es que estos conocimientos dejen de ser _lo que uno aprende por su cuenta_ y pasen a formar parte natural del proceso de aprender a programar.
 
 ## Cómo usar este material
+
 No es necesario recorrer este material en orden. Podés **empezar por cualquier tema** que te resulte útil en este momento, probarlo y volver cuando lo necesites. La idea es que cada sección te aporte algo concreto que puedas aplicar de inmediato en tu forma de trabajar.
