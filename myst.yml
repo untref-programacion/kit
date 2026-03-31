@@ -9,7 +9,7 @@ project:
   github: untref-programacion/kit
   toc:
     - file: content/01-introduccion.md
-    - file: content/03-ide.md
+    - file: content/02-env.md
 
 site:
   template: book-theme
