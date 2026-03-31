@@ -50,7 +50,11 @@ echo $MI_VAR
 ```bash
 # Añadir al final de ~/.bashrc
 echo 'export OTRA_VAR="valor persistente"' >> ~/.bashrc
-# Cerrá la terminal y abrí otra
+```
+
+Cerrá la terminal y abrí otra
+
+```bash
 echo $OTRA_VAR
 ```
 
