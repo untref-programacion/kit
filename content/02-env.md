@@ -10,8 +10,9 @@ Esto funciona porque cuando un programa se ejecuta, el sistema operativo le prov
 
 Esto funciona porque las variables de entorno actúan como una forma estándar y externa de pasar configuración, separando el código de los detalles del entorno en el que se ejecuta. De esta manera un mismo programa puede comportarse de forma diferente según cómo esté configurado, sin necesidad de ser modificado.
 
-> [!TIP]
-> Mirá que estos temas sirven también para Windows, ahora que sabés que existen podés tratar de googlear: "cómo guardo una variable de entorno en windows".
+```{tip}
+Mirá que estos temas sirven también para Windows, ahora que sabés que existen podés tratar de googlear: "cómo guardo una variable de entorno en windows".
+```
 
 ## Un poco de contexto
 ```{iframe} https://www.youtube.com/embed/C8bH7d-4ga8?si=HkeWNdjHa004sm2V
