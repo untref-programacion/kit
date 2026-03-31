@@ -1,7 +1,9 @@
 # Variables de Entorno
+
 Las variables de entorno son valores con nombre que se guardan en la terminal y a los que los programas pueden acceder mientras se ejecutan.
 
 ## Por qué es importante
+
 Permiten configurar el comportamiento de programas sin modificar el código. Muchas herramientas las usan para cosas como idioma, rutas, credenciales o configuraciones.
 
 Esto funciona porque cuando un programa se ejecuta, el sistema operativo le provee un conjunto de variables de entorno como parte de su contexto de ejecución. El programa puede leer esos valores durante su inicio o en tiempo de ejecución y decidir su comportamiento en base a ellos. Por ejemplo, puede cambiar el idioma en el que muestra mensajes, elegir dónde buscar archivos o activar o desactivar ciertas funcionalidades.
@@ -18,8 +20,8 @@ width: 100%
 ---
 ```
 
-
 ## Ejemplos (¡probalos!)
+
 Todos los ejemplos requieren del uso de la terminal. Deberás abrir una terminal para trabajar con ellos.
 
 - Ver todas las variables existentes:
