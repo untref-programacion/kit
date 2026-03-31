@@ -15,7 +15,8 @@ Mirá que estos temas sirven también para Windows, ahora que sabés que existen
 ```
 
 ## Un poco de contexto
-```{iframe} https://www.youtube.com/embed/C8bH7d-4ga8?si=HkeWNdjHa004sm2V
+
+```{iframe} https://www.youtube.com/embed/C8bH7d-4ga8
 ---
 width: 100%
 ---
@@ -94,5 +95,6 @@ echo MI_VAR
 
 Explicá la diferencia entre usar `$MI_VAR` y escribir `MI_VAR` sin el signo `$`. ¿En qué situaciones verías cada forma?
 
-Opcional: Hacé persistente una variable y comprobá que se mantiene tras cerrar la terminal.  
+Opcional: Hacé persistente una variable y comprobá que se mantiene tras cerrar la terminal.
+
 Pista: oʌᴉɥɔɹɐ unƃlɐ ɐ ɐlɹɐƃǝɹƃɐ sɐqǝp sɐzᴉnb
