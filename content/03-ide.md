@@ -55,7 +55,7 @@ Un IDE tiene capacidades que un editor de texto no trae por defecto, y que difí
 
 ### Un poco más de contexto
 
-```{iframe}https://www.youtube.com/embed/_J-ybg4j52s?si=2bIMKHIYjVyeFk3v
+```{iframe} https://www.youtube.com/embed/_J-ybg4j52s
 ---
 width: 100%
 ---
