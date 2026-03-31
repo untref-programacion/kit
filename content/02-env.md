@@ -64,7 +64,7 @@ Con estos comandos se puede inspeccionar el entorno actual, probar valores y esc
 
 Realizá los siguientes ejercicios en tu terminal y tomá nota de lo que sucede.
 
-1) Definir y leer
+1\) Definir y leer
 
 ```bash
 export PRUEBA="hola-prueba"
@@ -73,7 +73,7 @@ echo $PRUEBA
 
 ¿Qué devuelve `echo`? ¿Qué pasa si cerrás la terminal y abrís otra?
 
-2) Leer una variable ya existente
+2\) Leer una variable ya existente
 
 ```bash
 echo $HOME
@@ -82,7 +82,7 @@ echo $PATH
 
 ¿Qué tipo de información contiene cada una?
 
-3) Cómo afecta una variable a un comando
+3\) Cómo afecta una variable a un comando
 
 ```bash
 MI_VAR="valorTemporal" env | grep MI_VAR
@@ -90,7 +90,7 @@ MI_VAR="valorTemporal" env | grep MI_VAR
 
 ¿El valor persiste después de ejecutar el comando? ¿Por qué?
 
-4) Reconocer la sintaxis `$NOMBRE`
+4\) Reconocer la sintaxis `$NOMBRE`
 
 ```bash
 echo $MI_VAR
