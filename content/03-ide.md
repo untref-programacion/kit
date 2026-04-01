@@ -1,6 +1,6 @@
 # IDE
 
-Un _entorno de desarrollo integrado_ (Integrated Development Environment en inglés) es un programa que agrupa todas las herramientas necesarias para el ciclo de vida del desarrollo de un software en una sola interfaz. A diferencia de un editor simple, un IDE "entiende" el proyecto de forma semántica y no solo como archivos de texto.
+Un **entorno de desarrollo integrado** (_Integrated Development Environment_ en inglés) es un programa que agrupa todas las herramientas necesarias para el ciclo de vida del desarrollo de un software en una sola interfaz. A diferencia de un editor simple, un IDE "entiende" el proyecto de forma semántica y no solo como archivos de texto.
 
 Se suele optimizar para un lenguaje de programación o ecosistema en específico (como **Java**, **.NET** o **aplicaciones móviles**).
 
