@@ -1,10 +1,8 @@
-# IDE (Integrated Development Environment)
+# IDE
 
-Un IDE es un **entorno de desarrollo integrado** es un programa que junta todas las herramientas necesarias para el ciclo de vida del desarrollo de un software en una sola interfaz. A diferencia de un editor simple, un IDE "_entiende_" el proyecto de forma semántica y no solo como archivos de texto.
+Un _entorno de desarrollo integrado_ (Integrated Development Environment en inglés) es un programa que agrupa todas las herramientas necesarias para el ciclo de vida del desarrollo de un software en una sola interfaz. A diferencia de un editor simple, un IDE "entiende" el proyecto de forma semántica y no solo como archivos de texto.
 
 Se suele optimizar para un lenguaje de programación o ecosistema en específico (como **Java**, **.NET** o **aplicaciones móviles**).
-
----
 
 ## Componentes fundamentales
 
@@ -18,8 +16,6 @@ Para considerar a un programa como IDE, debe tener ciertas herramientas mínimo:
 - **Terminal:** Consola integrada para ejecución y lectura de logs.
 - **Explorador de Bases de Datos:** Capacidad de conexión, consulta y edición de esquemas SQL/NoSQL.
 
----
-
 ## Ejemplos de IDEs
 
 - **Java:** [Eclipse](https://eclipseide.org/) / [IntelliJ IDEA](https://www.jetbrains.com/idea/)
@@ -27,8 +23,6 @@ Para considerar a un programa como IDE, debe tener ciertas herramientas mínimo:
 - **Desarrollo web:** [WebStorm](https://www.jetbrains.com/webstorm/)
 - **Go:** [GoLand](https://www.jetbrains.com/go/)
 - **Mobile:** [Android Studio](https://developer.android.com/studio)
-
----
 
 ## IDE vs Editor de Texto
 
