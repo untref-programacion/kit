@@ -72,7 +72,7 @@ ls -l /home/usuario
 
 ### Navegación de archivos
 
-| Comando (Unix like)  | Comando (Windows)                        | Descripción                                   |
+| Comando (bash)       | Comando (CMD / PowerShell)               | Descripción                                   |
 | -------------------- | ---------------------------------------- | --------------------------------------------- |
 | `pwd`                | `cd` (sin argumentos)                    | Muestra la ruta del directori actual.         |
 | `ls`                 | `dir`                                    | Lista los archivos y carpetas del directorio. |
@@ -83,30 +83,30 @@ ls -l /home/usuario
 
 ### Gestión de archivos
 
-| Comando (Unix like)     | Comando (Windows)                                   | Descripción                                            |
-| ----------------------- | --------------------------------------------------- | ------------------------------------------------------ |
-| `touch <nombre>`        | `ni <nombre>`                                       | Crea un archivo vacío.                                 |
-| `cp <origen> <destino>` | `copy <origen> <destino>` o `cp <origen> <destino>` | Copia archivos o carpetas.                             |
-| `mv <origen> <destino>` | `move <origen> <destino>` o `mv <origen> <destino>` | Mueve o renombra archivos.                             |
-| `rm <archivo>`          | `del <archivo>`                                     | Elimina un archivo.                                    |
-| `rm -rf <carpeta>`      | `rm -Recurse <carpeta>`                             | Elimina una carpeta y su contenido de forma recursiva. |
+| Comando (bash)          | Comando (CMD / PowerShell)                                  | Descripción                                            |
+| ----------------------- | ----------------------------------------------------------- | ------------------------------------------------------ |
+| `touch <nombre>`        | `type nul > <nombre>` (CMD) o `ni <nombre>` (PowerShell)    | Crea un archivo vacío.                                 |
+| `cp <origen> <destino>` | `copy <origen> <destino>`                                   | Copia archivos o carpetas.                             |
+| `mv <origen> <destino>` | `move <origen> <destino>`                                   | Mueve o renombra archivos.                             |
+| `rm <archivo>`          | `del <archivo>`                                             | Elimina un archivo.                                    |
+| `rm -rf <carpeta>`      | `rmdir /s <carpeta>` (CMD) o `rmdir <carpeta>` (Powershell) | Elimina una carpeta y su contenido de forma recursiva. |
 
 > A tener en cuenta: Los comandos de eliminación, no mueven los archivos a una papelera de reciclaje como los programas de gestión de archivos normales.
 
 ### Visualización y edición
 
-| Comando (Unix like) | Comando (Windows)                  | Descripción                                               |
-| ------------------- | ---------------------------------- | --------------------------------------------------------- |
-| `cat <archivo>`     | `type <archivo>` o `cat <archivo>` | Muestra el contenido de una archivo en la terminal.       |
-| `less <archivo>`    | `more <archivo>`                   | Permite leer un archivo largo moviéndose con las flechas. |
-| `nano` / `vim`      | `notepad`                          | Ejecuta un programa de edición de texto.                  |
+| Comando (bash)   | Comando (CMD / PowerShell) | Descripción                                                                                   |
+| ---------------- | -------------------------- | --------------------------------------------------------------------------------------------- |
+| `cat <archivo>`  | `type <archivo>`           | Muestra el contenido de una archivo en la terminal.                                           |
+| `less <archivo>` | `more <archivo>`           | Permite leer un archivo largo moviéndose con las flechas.                                     |
+| `nano` / `vim`   | `notepad`                  | Ejecuta un programa de edición de texto. Si agregás el nombre de un archivo de texto lo abre. |
 
 ### Permisos y superusuario (Unix like)
 
-| Comando (Unix like) | Comando (Windows) | Descripción                                                        |
-| ------------------- | ----------------- | ------------------------------------------------------------------ |
-| `sudo`              | `gsudo` / `runas` | Ejecuta un comando con permisos de administrador (_SuperUser Do_). |
-| `chmod`             | `icacls`          | Cambia los permisos de un archivo (lectura, escritura, ejecución). |
+| Comando (bash) | Comando (CMD / PowerShell) | Descripción                                                        |
+| -------------- | -------------------------- | ------------------------------------------------------------------ |
+| `sudo`         | `runas`                    | Ejecuta un comando con permisos de administrador (_SuperUser Do_). |
+| `chmod`        | `icacls`                   | Cambia los permisos de un archivo (lectura, escritura, ejecución). |
 
 > A tener en cuenta:
 >
