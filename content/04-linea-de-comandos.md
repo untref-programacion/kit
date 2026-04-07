@@ -135,3 +135,11 @@ También se le pueden aplicar temas al prompt, para ver el estado de git, nivel 
 Así mismo, los emuladores de terminal más modernos permiten muchas configuraciones como transparencias, cambio de fuentes, y demás.
 
 Se pueden aplicar alias (atajos personalizados) para ciertos comandos que utilizamos seguido y no siempre nos acordamos, o por simple comodidad.
+
+## Un poco más de contexto
+
+```{iframe} https://www.youtube.com/embed/1YxHXBsVNGQ
+---
+width: 100%
+---
+```
