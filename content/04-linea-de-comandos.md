@@ -143,3 +143,86 @@ Se pueden aplicar alias (atajos personalizados) para ciertos comandos que utiliz
 width: 100%
 ---
 ```
+
+### Actividad práctica: Estructura de un proyecto
+
+> [!IMPORTANT]
+> Es una buena práctica NO usar espacios al nombrar las carpetas o directorios, ya que al trabajar con la terminal, agregar un espacio actúa como un separador de argumentos; si un nombre tiene espacios, la shell va a interpretar que son dos elementos distintos. Se recomienda usar guión medio (`-`) o guión bajo (`_`) según el contexto o la convención del proyecto.
+
+Imaginá que empezaste el cuatrimestre y necesitás estructurar tu espacio de trabajo para la materia. El objetivo es crear la estructura necesaria para que, cuando abras el IDE, puedas importar la carpeta y que reconozca todo automáticamente sin problemas.
+
+#### Paso 1: Navegación y Creación
+
+Primero, vas a crear la jerarquía de carpetas. En **Git Bash**, ejecutá estos comandos uno por uno:
+
+```bash
+# Ir a Documentos (o donde guardes tus proyectos).
+cd ~/Documentos
+
+# Crear la ruta completa del proyecto.
+# Se usa el flag '-p' para crear carpetas intermedias si no existen.
+mkdir -p eclipse-workspace/algoritmos_y_programacion_i/src
+
+# Entrar a la carpeta de código fuente.
+cd eclipse-workspace/algoritmos_y_programacion_i/src
+```
+
+#### Paso 2: Creación y edición de código
+
+Ahora creá el punto de entrada del programa.
+
+1. **Crear el archivo:**
+
+   ```bash
+   touch App.java
+   ```
+
+2. **Editarlo:**
+
+   Abrí el archivo con el editor que prefieras desde la terminal (podés usar `nano App.java` para editar el archivo desde la terminal con el programa ejecutado).
+
+3. **Pegar el código:**
+
+   ```java
+   public class App {
+       public static void main(String[] args) {
+           System.out.println("Hello, World!");
+       }
+   }
+   ```
+
+La estructura te debería quedar de esta forma:
+
+```txt
+|-Documentos/
+  |-eclipse-workspace/
+    |-algoritmos_y_programacion_i/
+      |-src/
+        |-App.java
+```
+
+#### Paso 3: Verificación y ejecución
+
+Antes de pasar al entorno gráfico, verificá que esté todo bien.
+
+- **Ver el contenido:** Asegurate de que no haya errores de sintaxis.
+
+  ```bash
+  cat App.java
+  ```
+
+- **Comprobar Java:** Verificá que el compilador esté disponible.
+
+  ```bash
+  java --version
+  ```
+
+- **Correr el programa:** Ejecutá el archivo directamente.
+
+  ```bash
+  java App.java
+  ```
+
+### Próximos pasos: De la Terminal al IDE
+
+Ahora que ya tenés la "base" creada por consola, vas a poder usar tu IDE para abrir el proyecto y trabajar desde ahí con futuros ejercicios.
