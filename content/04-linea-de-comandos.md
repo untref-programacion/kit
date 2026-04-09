@@ -197,11 +197,11 @@ Ahora creá el punto de entrada del programa.
 La estructura te debería quedar de esta forma:
 
 ```txt
-|-Documentos/
-  |-eclipse-workspace/
-    |-algoritmos_y_programacion_i/
-      |-src/
-        |-App.java
+Documentos
+└── eclipse-workspace
+    └── algoritmos_y_programacion_i
+        └── src
+            └── App.java
 ```
 
 #### Paso 3: Verificación y ejecución
