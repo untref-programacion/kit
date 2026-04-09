@@ -148,8 +148,9 @@ width: 100%
 
 ### Actividad práctica: Estructura de un proyecto
 
-> [!IMPORTANT]
-> Es una buena práctica NO usar espacios al nombrar las carpetas o directorios, ya que al trabajar con la terminal, agregar un espacio actúa como un separador de argumentos; si un nombre tiene espacios, la shell va a interpretar que son dos elementos distintos. Se recomienda usar guión medio (`-`) o guión bajo (`_`) según el contexto o la convención del proyecto.
+```{important} Importante
+Es una buena práctica NO usar espacios al nombrar las carpetas o directorios, ya que al trabajar con la terminal, agregar un espacio actúa como un separador de argumentos; si un nombre tiene espacios, la shell va a interpretar que son dos elementos distintos. Se recomienda usar guión medio (`-`) o guión bajo (`_`) según el contexto o la convención del proyecto.
+```
 
 Imaginá que empezaste el cuatrimestre y necesitás estructurar tu espacio de trabajo para la materia. El objetivo es crear la estructura necesaria para que, cuando abras el IDE, puedas importar la carpeta y que reconozca todo automáticamente sin problemas.
 
