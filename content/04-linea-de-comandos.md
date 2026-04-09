@@ -144,6 +144,8 @@ width: 100%
 ---
 ```
 
+---
+
 ### Actividad práctica: Estructura de un proyecto
 
 > [!IMPORTANT]
