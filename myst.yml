@@ -11,7 +11,7 @@ project:
     - file: content/01-introduccion.md
     - file: content/02-env.md
     - file: content/03-ide.md
-    - file: content/04-linea-de-comandos.md
+    - file: content/04-cli.md
 
 site:
   template: book-theme
