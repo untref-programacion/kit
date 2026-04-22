@@ -12,6 +12,7 @@ project:
     - file: content/02-env.md
     - file: content/03-ide.md
     - file: content/04-cli.md
+    - file: content/05-git.md
 
 site:
   template: book-theme
