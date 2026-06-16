@@ -71,7 +71,7 @@ Hay comandos que no son tan utilizados, pero que son muy útiles para situacione
 
 - `git stash`: Guarda temporalmente los cambios no commiteados para limpiar el directorio de trabajo.
 - `git stash pop`: Recupera los cambios guardados anteriormente con `stash`.
-- `git reset --hard <commit>`: Revierte el estado del proyecto a un commit específico, borrando todo lo anterior.
+- `git reset --hard <rama | commit>`: Revierte el estado del proyecto a un commit específico, borrando todo lo anterior.
 - `git rebase <rama>`: Aplica los cambios de una rama sobre otra, manteniendo el historial lineal.
 - `git cherry-pick <commit>`: Trae un commit específico de otra rama a la actual.
 
