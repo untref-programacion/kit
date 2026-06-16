@@ -89,7 +89,7 @@ Si bien la mejor forma de aprender este tipo de cosas es con tiempo y práctica 
 1. Creá una rama para un nuevo ejercicio o funcionalidad.
 2. Cambiá a esa rama.
 3. Hacé las modificaciones pertinentes.
-4. Agregá al Staging Area y creá un commit.
+4. Agregá al _staging area_ y creá un commit.
 
 ### Fusión (_merge_)
 
