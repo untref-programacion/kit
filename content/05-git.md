@@ -1,6 +1,6 @@
 # Git: Control de versiones
 
-[Git](https://git-scm.com/) es un sistema de **control de versiones** (**VSC** o _Version Control System_) distribuido, diseñado por [Linus Torvalds](https://github.com/torvalds), y que en la actualidad, es mantenido principalmente por [Junio Hamano](https://github.com/gitster). Su función principal es poder rastrear cambios en el código fuente, facilitando la colaboración y el retorno a estados anteriores del proyecto de forma eficiente.
+[Git](https://git-scm.com/) es un **sistema de control de versiones** (**VSC** o _Version Control System_) distribuido, diseñado por [Linus Torvalds](https://github.com/torvalds), y que en la actualidad, es mantenido principalmente por [Junio Hamano](https://github.com/gitster). Su función principal es poder rastrear cambios en el código fuente, facilitando la colaboración y el retorno a estados anteriores del proyecto de forma eficiente.
 
 Como todo comando, se utiliza de la forma:
 
