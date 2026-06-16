@@ -81,7 +81,7 @@ Si bien la mejor forma de aprender este tipo de cosas es con tiempo y práctica 
 
 ### Preparación
 
-1. Parate en la carpeta de un proyecto de código y ejecutá creá un repositorio nuevo.
+1. Parate en la carpeta de un proyecto de código y creá un repositorio nuevo.
 2. Creá un archivo nuevo o modificá otro, agregalo al Staging Area y creá un commit para ese cambio.
 
 ### Ramificación
